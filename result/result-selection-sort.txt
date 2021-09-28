@@ -1,0 +1,84 @@
+Teste crescente 2000
+            Tempo: 0.003239
+            Num. de Comparacoes: 2001000
+            Num. de atribuicoes: 0
+Teste crescente 4000
+            Tempo: 0.012913
+            Num. de Comparacoes: 8002000
+            Num. de atribuicoes: 0
+Teste crescente 8000
+            Tempo: 0.029698
+            Num. de Comparacoes: 32004000
+            Num. de atribuicoes: 0
+Teste crescente 16000
+            Tempo: 0.106017
+            Num. de Comparacoes: 128008000
+            Num. de atribuicoes: 0
+Teste crescente 32000
+            Tempo: 0.424696
+            Num. de Comparacoes: 512016000
+            Num. de atribuicoes: 0
+Teste crescente 64000
+            Tempo: 1.701174
+            Num. de Comparacoes: 2048032000
+            Num. de atribuicoes: 0
+Teste crescente 128000
+            Tempo: 6.814921
+            Num. de Comparacoes: 8192064000
+            Num. de atribuicoes: 0
+Teste decrescente 2000
+            Tempo: 0.005337
+            Num. de Comparacoes: 2001000
+            Num. de atribuicoes: 1000000
+Teste decrescente 4000
+            Tempo: 0.015159
+            Num. de Comparacoes: 8002000
+            Num. de atribuicoes: 4000000
+Teste decrescente 8000
+            Tempo: 0.039165
+            Num. de Comparacoes: 32004000
+            Num. de atribuicoes: 16000000
+Teste decrescente 16000
+            Tempo: 0.123940
+            Num. de Comparacoes: 128008000
+            Num. de atribuicoes: 64000000
+Teste decrescente 32000
+            Tempo: 0.502229
+            Num. de Comparacoes: 512016000
+            Num. de atribuicoes: 256000000
+Teste decrescente 64000
+            Tempo: 2.027849
+            Num. de Comparacoes: 2048032000
+            Num. de atribuicoes: 1024000000
+Teste decrescente 128000
+            Tempo: 8.088561
+            Num. de Comparacoes: 8192064000
+            Num. de atribuicoes: 4096000000
+Teste random 2000
+            Tempo: 0.007181
+            Num. de Comparacoes: 2001000
+            Num. de atribuicoes: 12545
+Teste random 4000
+            Tempo: 0.027163
+            Num. de Comparacoes: 8002000
+            Num. de atribuicoes: 27940
+Teste random 8000
+            Tempo: 0.028681
+            Num. de Comparacoes: 32004000
+            Num. de atribuicoes: 61485
+Teste random 16000
+            Tempo: 0.106674
+            Num. de Comparacoes: 128008000
+            Num. de atribuicoes: 129002
+Teste random 32000
+            Tempo: 0.442073
+            Num. de Comparacoes: 512016000
+            Num. de atribuicoes: 286198
+Teste random 64000
+            Tempo: 1.783996
+            Num. de Comparacoes: 2048032000
+            Num. de atribuicoes: 604967
+Teste random 128000
+            Tempo: 7.131796
+            Num. de Comparacoes: 8192064000
+            Num. de atribuicoes: 1294851
